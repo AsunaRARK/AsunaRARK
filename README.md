@@ -18,11 +18,10 @@
 
 ## About
 
-**Backend developer** with an interest in **game development** and **automation**.
+**Backend development** · **Automation** · **Game development**
 
-I work with **Node.js, databases, APIs, and Godot**. Current projects include a Discord bot, an inventory system, and an idle RPG.
-
-*Build it. Break it. Fix it.*
+- **Working with:** Node.js, APIs, databases, Godot 4
+- **Building:** Pavilion Bot, StockPilot, Idle Dungeon Worker
 
 ## Tech stack
 
