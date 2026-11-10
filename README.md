@@ -53,18 +53,14 @@ I build backend services, database-driven applications, automation tools, and ga
 
 ## Featured projects
 
-<sub>Works in progress. Public repositories and demos will be linked once they're ready.</sub>
+<sub>Selected projects in development. Live repository cards will replace these previews when the projects become public.</sub>
 
-<table>
-<tr>
-<td width="50%"><img src="./assets/v2-pavilion-card.svg" alt="Pavilion Bot: Discord moderation, XP and dashboard" width="100%"></td>
-<td width="50%"><img src="./assets/v2-stockpilot-card.svg" alt="StockPilot: inventory management" width="100%"></td>
-</tr>
-<tr>
-<td width="50%"><img src="./assets/v2-dungeon-card.svg" alt="Idle Dungeon Worker: Godot idle RPG" width="100%"></td>
-<td width="50%"><img src="./assets/v2-recipe-card.svg" alt="Recipe Platform: offline recipe PWA" width="100%"></td>
-</tr>
-</table>
+<p align="left">
+  <img width="278" src="./assets/v2-pavilion-card.svg" alt="Pavilion Bot — Discord moderation and dashboard">
+  <img width="278" src="./assets/v2-stockpilot-card.svg" alt="StockPilot — inventory management">
+  <img width="278" src="./assets/v2-dungeon-card.svg" alt="Idle Dungeon Worker — Godot idle RPG">
+  <img width="278" src="./assets/v2-recipe-card.svg" alt="Recipe Platform — offline-ready PWA">
+</p>
 
 ---
 
