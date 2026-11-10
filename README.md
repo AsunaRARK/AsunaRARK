@@ -15,9 +15,9 @@
 </div>
 
 
-## About Me
+<h2 align="center">About Me</h2>
 
-<img src="./assets/about-accent.svg" width="100%" alt="Violet accent line">
+<p align="center"><img src="./assets/about-accent.svg" width="68%" alt="Violet accent line"></p>
 
 **Computer Science graduate** with **First Class Honours**.
 
@@ -25,9 +25,9 @@ Interested in **game development**, **AI/ML**, and **software engineering**.
 
 Previously worked on **AI-powered defect detection** in an industrial environment.
 
-## Tech stack
+<h2 align="center">Tech stack</h2>
 
-<img src="./assets/stack-accent.svg" width="100%" alt="Violet to blue neon accent line">
+<p align="center"><img src="./assets/stack-accent.svg" width="68%" alt="Violet to blue neon accent line"></p>
 
 <div align="center">
 
@@ -57,9 +57,9 @@ Previously worked on **AI-powered defect detection** in an industrial environmen
 </div>
 
 
-## Featured projects
+<h2 align="center">Featured projects</h2>
 
-<img src="./assets/projects-accent.svg" width="100%" alt="Purple neon accent line">
+<p align="center"><img src="./assets/projects-accent.svg" width="68%" alt="Purple neon accent line"></p>
 
 <sub><strong>Selected projects in development.</strong> Live repository cards will replace these previews when the projects become public.</sub>
 
