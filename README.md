@@ -4,7 +4,7 @@
 
 <br>
 
-*Building things that make sense, even after midnight.*
+***Building things that make sense, even after midnight.***
 
 <br>
 
@@ -18,20 +18,20 @@
 
 ## About
 
-I build backend services, database-driven applications, automation tools, and games. I enjoy taking an idea beyond a prototype and making it genuinely useful.
+I build **backend services**, **database-driven applications**, **automation tools**, and **games**. I enjoy taking an idea **beyond a prototype** and making it genuinely useful.
 
 ## Tech stack
 
 <div align="center">
 
-**Languages**
+### Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-211C2C?style=for-the-badge&logo=javascript&logoColor=B89DE7)
 ![Python](https://img.shields.io/badge/Python-211C2C?style=for-the-badge&logo=python&logoColor=B89DE7)
 ![Java](https://img.shields.io/badge/Java-211C2C?style=for-the-badge&logo=openjdk&logoColor=B89DE7)
 ![SQL](https://img.shields.io/badge/SQL-211C2C?style=for-the-badge&logo=postgresql&logoColor=B89DE7)
 
-**Backend & databases**
+### Backend & databases
 
 ![Node.js](https://img.shields.io/badge/Node.js-211C2C?style=for-the-badge&logo=nodedotjs&logoColor=8CC3DB)
 ![Express](https://img.shields.io/badge/Express-211C2C?style=for-the-badge&logo=express&logoColor=8CC3DB)
@@ -39,7 +39,7 @@ I build backend services, database-driven applications, automation tools, and ga
 ![SQLite](https://img.shields.io/badge/SQLite-211C2C?style=for-the-badge&logo=sqlite&logoColor=8CC3DB)
 ![MySQL](https://img.shields.io/badge/MySQL-211C2C?style=for-the-badge&logo=mysql&logoColor=8CC3DB)
 
-**Tools & platforms**
+### Tools & platforms
 
 ![Git](https://img.shields.io/badge/Git-211C2C?style=for-the-badge&logo=git&logoColor=C9B6D8)
 ![Azure](https://img.shields.io/badge/Azure-211C2C?style=for-the-badge&logoColor=C9B6D8)
@@ -53,7 +53,7 @@ I build backend services, database-driven applications, automation tools, and ga
 
 ## Featured projects
 
-<sub>Selected projects in development. Live repository cards will replace these previews when the projects become public.</sub>
+<sub><strong>Selected projects in development.</strong> Live repository cards will replace these previews when the projects become public.</sub>
 
 <p align="left">
   <img width="278" src="./assets/v2-pavilion-card.svg" alt="Pavilion Bot — Discord moderation and dashboard">
@@ -66,6 +66,6 @@ I build backend services, database-driven applications, automation tools, and ga
 
 <div align="center">
 
-<sub>✦ Keep building. Keep evolving. ✦</sub>
+<sub><strong>✦ Keep building. Keep evolving. ✦</strong></sub>
 
 </div>
