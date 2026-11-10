@@ -57,12 +57,12 @@ I build backend services, database-driven applications, automation tools, and ga
 
 <table>
 <tr>
-<td width="50%"><img src="./assets/pavilion-card.svg" alt="Pavilion Bot: Discord moderation, XP and dashboard" width="100%"></td>
-<td width="50%"><img src="./assets/stockpilot-card.svg" alt="StockPilot: inventory management" width="100%"></td>
+<td width="50%"><img src="./assets/v2-pavilion-card.svg" alt="Pavilion Bot: Discord moderation, XP and dashboard" width="100%"></td>
+<td width="50%"><img src="./assets/v2-stockpilot-card.svg" alt="StockPilot: inventory management" width="100%"></td>
 </tr>
 <tr>
-<td width="50%"><img src="./assets/dungeon-card.svg" alt="Idle Dungeon Worker: Godot idle RPG" width="100%"></td>
-<td width="50%"><img src="./assets/recipe-card.svg" alt="Recipe Platform: offline recipe PWA" width="100%"></td>
+<td width="50%"><img src="./assets/v2-dungeon-card.svg" alt="Idle Dungeon Worker: Godot idle RPG" width="100%"></td>
+<td width="50%"><img src="./assets/v2-recipe-card.svg" alt="Recipe Platform: offline recipe PWA" width="100%"></td>
 </tr>
 </table>
 
