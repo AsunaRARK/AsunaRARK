@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="172" viewBox="0 0 880 172" role="img" aria-label="Recipe Platform: Recipe management with storage and offline access">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#17151f"/><stop offset="1" stop-color="#100f18"/></linearGradient><linearGradient id="line" x2="1"><stop stop-color="#88c3c7" stop-opacity=".8"/><stop offset="1" stop-color="#88c3c7" stop-opacity="0"/></linearGradient></defs>
+<rect x="1" y="1" width="878" height="170" rx="14" fill="url(#bg)" stroke="#40394e" stroke-width="2"/>
+<rect x="2" y="2" width="5" height="168" rx="2" fill="#88c3c7"/>
+<path d="M34 43H340" stroke="url(#line)" opacity=".45"/><circle cx="802" cy="84" r="51" fill="none" stroke="#88c3c7" stroke-opacity=".13" stroke-width="1"/><circle cx="802" cy="84" r="33" fill="none" stroke="#88c3c7" stroke-opacity=".26"/>
+<path d="M748 85 H766 L776 67 L788 104 L799 75 L810 85 H854" fill="none" stroke="#88c3c7" stroke-opacity=".75" stroke-width="2" stroke-linejoin="round"/>
+<g font-family="Arial,Helvetica,sans-serif"><text x="35" y="31" fill="#88c3c7" font-size="13" font-weight="bold" letter-spacing="2">04  /  WEB APPLICATION</text>
+<text x="35" y="77" fill="#f1eafa" font-size="29" font-weight="bold">Recipe Platform</text>
+<text x="35" y="107" fill="#bcb4ca" font-size="17">Recipe management with storage and offline access</text>
+<text x="35" y="145" fill="#88c3c7" font-size="12" font-weight="bold" letter-spacing="2">NODE.JS   /   MONGODB   /   PWA</text></g></svg>
