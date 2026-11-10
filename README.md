@@ -18,10 +18,9 @@
 
 ## About
 
-**Backend development** · **Automation** · **Game development**
+**Backend developer** focused on **APIs, databases, and automation**, with a side interest in **game development**.
 
-- **Working with:** Node.js, APIs, databases, Godot 4
-- **Building:** Pavilion Bot, StockPilot, Idle Dungeon Worker
+Currently working on **Pavilion Bot**, **StockPilot**, and **Idle Dungeon Worker**.
 
 ## Tech stack
 
