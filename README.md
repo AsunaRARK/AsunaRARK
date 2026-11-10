@@ -1,15 +1,16 @@
 <div align="center">
 
-# AsunaRARK
-
-**Software development · Backend systems · Games**
-
-<sub>Building things that make sense, even after midnight.</sub>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3300&pause=1300&color=B99AEC&center=true&vCenter=true&width=760&height=64&lines=Hey%2C+I'm+AsunaRARK;Backend+%E2%80%A2+Games+%E2%80%A2+Automation" alt="Typing introduction: AsunaRARK — Backend, Games, Automation">
 
 <br>
 
-<img src="https://img.shields.io/badge/STATUS-BUILDING-211A2C?style=flat-square&labelColor=111018&color=9276BA" alt="Status: building">
-<img src="https://img.shields.io/badge/FOCUS-BACKEND-211A2C?style=flat-square&labelColor=111018&color=9276BA" alt="Focus: backend">
+*Building things that make sense, even after midnight.*
+
+<br>
+
+![Backend](https://img.shields.io/badge/BACKEND-Node.js%20%2F%20APIs-1B1725?style=for-the-badge&labelColor=8267AA&color=1B1725)
+![Games](https://img.shields.io/badge/GAMES-Godot%204-1B1725?style=for-the-badge&labelColor=678FB5&color=1B1725)
+![Automation](https://img.shields.io/badge/INTEREST-Automation-1B1725?style=for-the-badge&labelColor=93669B&color=1B1725)
 
 </div>
 
@@ -17,7 +18,7 @@
 
 ## About
 
-I develop backend services, database-driven applications, automation tools, and games. I enjoy turning ideas into practical systems — from the first prototype to something people can actually use.
+I build backend services, database-driven applications, automation tools, and games. I enjoy taking an idea beyond a prototype and making it genuinely useful.
 
 ## Tech stack
 
@@ -52,15 +53,18 @@ I develop backend services, database-driven applications, automation tools, and 
 
 ## Featured projects
 
-Four projects in progress. Public repositories and live demos will be added as they are ready.
+<sub>Works in progress. Public repositories and demos will be linked once they're ready.</sub>
 
-![Pavilion Bot — Discord automation, moderation, XP and web dashboard](./assets/pavilion-bot.svg)
-
-![StockPilot — inventory management application](./assets/stockpilot.svg)
-
-![Idle Dungeon Worker — idle RPG made with Godot 4](./assets/idle-dungeon-worker.svg)
-
-![Recipe Platform — progressive web app for recipes](./assets/recipe-platform.svg)
+<table>
+<tr>
+<td width="50%"><img src="./assets/pavilion-card.svg" alt="Pavilion Bot: Discord moderation, XP and dashboard" width="100%"></td>
+<td width="50%"><img src="./assets/stockpilot-card.svg" alt="StockPilot: inventory management" width="100%"></td>
+</tr>
+<tr>
+<td width="50%"><img src="./assets/dungeon-card.svg" alt="Idle Dungeon Worker: Godot idle RPG" width="100%"></td>
+<td width="50%"><img src="./assets/recipe-card.svg" alt="Recipe Platform: offline recipe PWA" width="100%"></td>
+</tr>
+</table>
 
 ---
 
