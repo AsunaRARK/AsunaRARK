@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-label="AsunaRARK developer banner">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080911"/><stop offset=".55" stop-color="#111022"/><stop offset="1" stop-color="#07080e"/></linearGradient>
+ <linearGradient id="text" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#e5ddff"/><stop offset=".54" stop-color="#b8a1ff"/><stop offset="1" stop-color="#64c9ff"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="13"/></filter>
+ <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#7770b9" stroke-opacity=".095"/></pattern>
+</defs>
+<rect width="1200" height="330" fill="url(#bg)"/><rect width="1200" height="330" fill="url(#grid)"/>
+<circle cx="930" cy="160" r="128" fill="none" stroke="#805bfa" stroke-width="3" opacity=".35"/><circle cx="930" cy="160" r="107" fill="none" stroke="#8a6fff" opacity=".17"/><circle cx="930" cy="160" r="84" fill="#7c48ff" opacity=".12" filter="url(#glow)"/>
+<path d="M800 180 847 180 870 139 897 218 923 160 948 180 1083 180" fill="none" stroke="#9d77ff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" opacity=".9"/>
+<path d="M800 180 847 180 870 139 897 218 923 160 948 180 1083 180" fill="none" stroke="#9d77ff" stroke-width="12" opacity=".22" filter="url(#glow)"/>
+<g font-family="monospace">
+<text x="76" y="63" fill="#a18bd9" font-size="16" letter-spacing="4">[ 404: ORDINARY NOT FOUND ]</text>
+<text x="73" y="179" fill="#ff407e" opacity=".45" font-size="77" font-weight="bold" letter-spacing="2">ASUNARARK</text>
+<text x="79" y="174" fill="#49d9fa" opacity=".5" font-size="77" font-weight="bold" letter-spacing="2">ASUNARARK</text>
+<text x="76" y="176" fill="url(#text)" font-size="77" font-weight="bold" letter-spacing="2">ASUNARARK</text>
+<path d="M76 190H650" stroke="#a78bfa" stroke-width="2" opacity=".65"/>
+<text x="78" y="233" fill="#c2b7da" font-size="18" letter-spacing="3">CODE / CREATE / REPEAT</text>
+<text x="78" y="287" fill="#686581" font-size="14" letter-spacing="2">BACKEND SYSTEMS  //  GAME DEVELOPMENT  //  AUTOMATION</text>
+<text x="1060" y="294" fill="#7e70a9" font-size="13">01:01</text>
+</g>
+<path d="M0 305H1200" stroke="#6550ad" opacity=".24"/><path d="M1090 0 1200 110" stroke="#8555de" opacity=".2"/>
+</svg>
