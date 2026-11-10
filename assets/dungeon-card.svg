@@ -1,13 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="430" height="230" viewBox="0 0 430 230" role="img" aria-label="Idle Dungeon Worker">
-<defs><linearGradient id="b" x2="1" y2="1"><stop stop-color="#1c1925"/><stop offset="1" stop-color="#12121c"/></linearGradient></defs>
-<rect x="1" y="1" width="428" height="228" rx="15" fill="url(#b)" stroke="#443a52" stroke-width="2"/>
-<rect x="1" y="1" width="428" height="5" rx="2.5" fill="#CC9BD4" opacity=".85"/>
-<circle cx="362" cy="110" r="43" fill="none" stroke="#CC9BD4" opacity=".2"/>
-<path d="M320 111H337L346 93L354 132L363 103L371 111H403" stroke="#CC9BD4" stroke-width="2" fill="none" opacity=".65"/>
+<rect width="430" height="230" rx="9" fill="#1c1c29"/>
+<rect x="1" y="1" width="428" height="228" rx="8" fill="none" stroke="#333046" stroke-width="1"/>
 <g font-family="Arial,Helvetica,sans-serif">
-<text x="23" y="33" fill="#CC9BD4" font-size="11" font-weight="bold" letter-spacing="1.5">03   GAME DEVELOPMENT</text>
-<text x="23" y="83" fill="#F4EDF9" font-size="24" font-weight="bold">Idle Dungeon Worker</text>
-<text x="23" y="124" fill="#C2BACF" font-size="15">Idle RPG with gathering,</text>
-<text x="23" y="145" fill="#C2BACF" font-size="15">combat and progression</text>
-<path d="M23 172H407" stroke="#4d435a" stroke-width="1" opacity=".8"/>
-<text x="23" y="202" fill="#CC9BD4" font-size="13" font-weight="bold">Godot 4  ·  GDScript</text></g></svg>
+<text x="24" y="48" fill="#CB85F7" font-size="24" font-weight="bold">Idle Dungeon Worker</text>
+<text x="24" y="94" fill="#EEEAF3" font-size="17">Idle RPG with gathering, combat,</text>
+<text x="24" y="119" fill="#EEEAF3" font-size="17">upgrades and persistent progress.</text>
+<circle cx="30" cy="184" r="7" fill="#9E78D6"/>
+<text x="47" y="190" fill="#D8C5EE" font-size="14">Godot 4   •   GDScript</text>
+<text x="24" y="217" fill="#8C7B9E" font-size="10" letter-spacing="1.2">IN DEVELOPMENT</text>
+</g></svg>
