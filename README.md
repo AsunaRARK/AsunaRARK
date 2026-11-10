@@ -16,11 +16,15 @@
 
 ---
 
-## About
+## About Me
 
-**Backend developer** focused on **APIs, databases, and automation**, with a side interest in **game development**.
+<img src="./assets/about-accent.svg" width="100%" alt="Violet accent line">
 
-Currently working on **Pavilion Bot**, **StockPilot**, and **Idle Dungeon Worker**.
+**Computer Science graduate** with **First Class Honours**.
+
+Interested in **game development**, **AI/ML**, and **software engineering**.
+
+Previously worked on **AI-powered defect detection** in an industrial environment.
 
 ## Tech stack
 
