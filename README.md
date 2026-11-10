@@ -4,7 +4,7 @@
 
 <br>
 
-***Building things that make sense, even after midnight.***
+***Made of errors. Still running.***
 
 <br>
 
@@ -18,7 +18,13 @@
 
 ## About
 
-I build **backend services**, **database-driven applications**, **automation tools**, and **games**. I enjoy taking an idea **beyond a prototype** and making it genuinely useful.
+I’m into **code, games, and the things people build when they can’t leave an idea alone.** Some projects start with a plan. Mine usually start with *“what if?”* and get a little out of hand.
+
+Most of my work is somewhere between **backend development** and **creative experiments** — Discord bots, databases, automation, web apps, and small games in Godot. I like the invisible parts of software: the logic, the systems, the little details that make everything click.
+
+I break things, fix them, rewrite them, then probably break them again. **If a project is worth starting, it deserves to become more than another abandoned prototype.**
+
+*Not chasing perfect. Just making something real.*
 
 ## Tech stack
 
