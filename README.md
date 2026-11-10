@@ -14,7 +14,6 @@
 
 </div>
 
----
 
 ## About Me
 
@@ -27,6 +26,8 @@ Interested in **game development**, **AI/ML**, and **software engineering**.
 Previously worked on **AI-powered defect detection** in an industrial environment.
 
 ## Tech stack
+
+<img src="./assets/stack-accent.svg" width="100%" alt="Violet to blue neon accent line">
 
 <div align="center">
 
@@ -55,9 +56,10 @@ Previously worked on **AI-powered defect detection** in an industrial environmen
 
 </div>
 
----
 
 ## Featured projects
+
+<img src="./assets/projects-accent.svg" width="100%" alt="Purple neon accent line">
 
 <sub><strong>Selected projects in development.</strong> Live repository cards will replace these previews when the projects become public.</sub>
 
@@ -68,7 +70,6 @@ Previously worked on **AI-powered defect detection** in an industrial environmen
   <img width="278" src="./assets/v2-recipe-card.svg" alt="Recipe Platform — offline-ready PWA">
 </p>
 
----
 
 <div align="center">
 
