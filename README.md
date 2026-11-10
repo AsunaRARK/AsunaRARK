@@ -18,13 +18,11 @@
 
 ## About
 
-I’m into **code, games, and the things people build when they can’t leave an idea alone.** Some projects start with a plan. Mine usually start with *“what if?”* and get a little out of hand.
+**Backend developer** with an interest in **game development** and **automation**.
 
-Most of my work is somewhere between **backend development** and **creative experiments** — Discord bots, databases, automation, web apps, and small games in Godot. I like the invisible parts of software: the logic, the systems, the little details that make everything click.
+I work with **Node.js, databases, APIs, and Godot**. Current projects include a Discord bot, an inventory system, and an idle RPG.
 
-I break things, fix them, rewrite them, then probably break them again. **If a project is worth starting, it deserves to become more than another abandoned prototype.**
-
-*Not chasing perfect. Just making something real.*
+*Build it. Break it. Fix it.*
 
 ## Tech stack
 
