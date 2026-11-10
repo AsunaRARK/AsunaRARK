@@ -1,116 +1,75 @@
 <div align="center">
 
-# ASUNARARK
+# Hi, I'm AsunaRARK 👋
 
-`software development` &nbsp; ✦ &nbsp; `backend systems` &nbsp; ✦ &nbsp; `game development`
+### Software Developer · Backend & Game Development
 
-<br>
+I enjoy building practical applications, designing backend systems, and turning ideas into working software.
 
-*Somewhere between clean code and midnight thoughts.*
-
-<br>
-
-![Status](https://img.shields.io/badge/STATUS-BUILDING-21172E?style=for-the-badge&labelColor=0D0B12&color=8F6BCC)
-![Focus](https://img.shields.io/badge/FOCUS-BACKEND-21172E?style=for-the-badge&labelColor=0D0B12&color=B369A6)
+[![GitHub](https://img.shields.io/badge/GitHub-AsunaRARK-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AsunaRARK)
 
 </div>
 
-<br>
-
 ---
 
-## 01 / About the work
+## What I build
 
-I build applications, backend systems, and small interactive worlds.
+- Backend applications, APIs, and database-driven systems
+- Games and interactive projects
+- Experiments with automation and machine learning
 
-My interests sit at the intersection of **software engineering**, **automation**, and **game development**.
-
-<br>
-
----
-
-## 02 / Tech stack
-
-### Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-191522?style=for-the-badge&logo=javascript&logoColor=E3B8FF)
-![Python](https://img.shields.io/badge/Python-191522?style=for-the-badge&logo=python&logoColor=E3B8FF)
-![Java](https://img.shields.io/badge/Java-191522?style=for-the-badge&logo=openjdk&logoColor=E3B8FF)
-![SQL](https://img.shields.io/badge/SQL-191522?style=for-the-badge&logo=postgresql&logoColor=E3B8FF)
-![GDScript](https://img.shields.io/badge/GDScript-191522?style=for-the-badge&logo=godotengine&logoColor=E3B8FF)
-
-### Backend & databases
-
-![Node.js](https://img.shields.io/badge/Node.js-191522?style=for-the-badge&logo=nodedotjs&logoColor=A78BFA)
-![Express](https://img.shields.io/badge/Express-191522?style=for-the-badge&logo=express&logoColor=A78BFA)
-![MongoDB](https://img.shields.io/badge/MongoDB-191522?style=for-the-badge&logo=mongodb&logoColor=A78BFA)
-![SQLite](https://img.shields.io/badge/SQLite-191522?style=for-the-badge&logo=sqlite&logoColor=A78BFA)
-![MySQL](https://img.shields.io/badge/MySQL-191522?style=for-the-badge&logo=mysql&logoColor=A78BFA)
-
-### Tools & platforms
-
-![Git](https://img.shields.io/badge/Git-191522?style=for-the-badge&logo=git&logoColor=91CDF5)
-![Azure](https://img.shields.io/badge/Azure-191522?style=for-the-badge&logoColor=91CDF5)
-![Godot](https://img.shields.io/badge/Godot_4-191522?style=for-the-badge&logo=godotengine&logoColor=91CDF5)
-![HTML](https://img.shields.io/badge/HTML5-191522?style=for-the-badge&logo=html5&logoColor=91CDF5)
-![CSS](https://img.shields.io/badge/CSS3-191522?style=for-the-badge&logo=css&logoColor=91CDF5)
-
-<br>
-
----
-
-## 03 / Projects
-
-### 🟣 Pavilion Bot
-
-Discord platform combining moderation, automated systems, XP progression, and a web dashboard.
-
-`Node.js` · `Express` · `SQLite` · `OAuth2`
-
-<sub>In development — public demo and repository details to follow.</sub>
-
-<br>
-
-### 🔵 StockPilot
-
-Inventory management application focused on practical workflows and a maintainable full-stack architecture.
-
-`Inventory` · `Full-stack` · `Data management`
-
-<sub>In development — public demo and repository details to follow.</sub>
-
-<br>
-
-### 🟣 Idle Dungeon Worker
-
-Idle RPG built around resource gathering, combat, upgrades, and persistent progression.
-
-`Godot 4` · `GDScript` · `Save systems`
-
-<sub>In development — public demo and repository details to follow.</sub>
-
-<br>
-
-### 🔵 Recipe Platform
-
-Progressive web application with recipe management, persistent storage, and offline functionality.
-
-`Node.js` · `Express` · `MongoDB` · `PWA`
-
-<sub>Project being refined for public release.</sub>
-
-<br>
-
----
-
-## 04 / Activity
+## Tech stack
 
 <div align="center">
 
-![GitHub contribution streak](https://streak-stats.demolab.com?user=AsunaRARK&theme=midnight-purple&hide_border=true&background=0D0B14&ring=A78BFA&fire=DB5DAB&currStreakLabel=BCA7F8)
+**Languages**
 
-<br>
+![JavaScript](https://img.shields.io/badge/JavaScript-1f2937?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-1f2937?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-1f2937?style=for-the-badge&logo=openjdk)
+![SQL](https://img.shields.io/badge/SQL-1f2937?style=for-the-badge&logo=postgresql)
 
-`// create, break, rebuild, repeat.`
+**Backend & databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-1f2937?style=for-the-badge&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-1f2937?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-1f2937?style=for-the-badge&logo=mongodb)
+![SQLite](https://img.shields.io/badge/SQLite-1f2937?style=for-the-badge&logo=sqlite)
+![MySQL](https://img.shields.io/badge/MySQL-1f2937?style=for-the-badge&logo=mysql)
+
+**Tools & platforms**
+
+![Git](https://img.shields.io/badge/Git-1f2937?style=for-the-badge&logo=git)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-1f2937?style=for-the-badge)
+![Godot](https://img.shields.io/badge/Godot_4-1f2937?style=for-the-badge&logo=godotengine)
+![HTML5](https://img.shields.io/badge/HTML5-1f2937?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1f2937?style=for-the-badge&logo=css)
+
+</div>
+
+## Selected projects
+
+> These projects are being polished and prepared for public release. Links and demos will be added as they become ready.
+
+| Project | What it does | Technologies |
+|:--|:--|:--|
+| **Pavilion Bot** | Discord moderation, XP/level system, automod, and an OAuth2-protected web dashboard | Node.js · Express · SQLite |
+| **StockPilot** | Inventory management application | Full-stack development |
+| **Idle Dungeon Worker** | Idle RPG with gathering, combat, progression, and save/load functionality | Godot 4 · GDScript |
+| **Recipe Platform** | Progressive web app with recipes, persistent data, and offline support | Node.js · Express · MongoDB · PWA |
+
+## GitHub activity
+
+<div align="center">
+
+![GitHub contribution streak](https://streak-stats.demolab.com?user=AsunaRARK&theme=github-dark-blue&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+**Building useful software, one iteration at a time.**
 
 </div>
