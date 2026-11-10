@@ -1,11 +1,8 @@
 <div align="center">
 
-# Hi, I'm Oleg 👋
+# Hi, I'm AsunaRARK 👋
 
 ### Software Developer · Backend & Game Development
-
-**BSc (Hons) Computer Science — First Class Honours**  
-University of Winchester · Hampshire, UK
 
 I enjoy building practical applications, designing backend systems, and turning ideas into working software.
 
@@ -15,14 +12,11 @@ I enjoy building practical applications, designing backend systems, and turning 
 
 ---
 
-## About me
+## What I build
 
-- 🎓 Computer Science graduate from the **University of Winchester**
-- 🛠️ Interested in **backend development**, APIs, databases, and application architecture
-- 🎮 Also passionate about **game development** and interactive systems
-- 🤖 Hands-on experience with **machine learning** and computer vision during an industry internship
-- 🌱 Currently refining projects into production-ready applications
-- 💼 Open to **junior software developer**, **backend developer**, and related opportunities
+- Backend applications, APIs, and database-driven systems
+- Games and interactive projects
+- Experiments with automation and machine learning
 
 ## Tech stack
 
@@ -60,17 +54,9 @@ I enjoy building practical applications, designing backend systems, and turning 
 | Project | What it does | Technologies |
 |:--|:--|:--|
 | **Pavilion Bot** | Discord moderation, XP/level system, automod, and an OAuth2-protected web dashboard | Node.js · Express · SQLite |
-| **StockPilot** | Inventory management application, being developed beyond its original academic prototype | Full-stack development |
+| **StockPilot** | Inventory management application | Full-stack development |
 | **Idle Dungeon Worker** | Idle RPG with gathering, combat, progression, and save/load functionality | Godot 4 · GDScript |
 | **Recipe Platform** | Progressive web app with recipes, persistent data, and offline support | Node.js · Express · MongoDB · PWA |
-
-## Experience & education
-
-**BSc (Hons) Computer Science — First Class Honours**  
-University of Winchester
-
-**AI / Computer Vision Internship — Freudenberg**  
-Worked on training a machine-learning model for visual defect detection.
 
 ## GitHub activity
 
@@ -85,7 +71,5 @@ Worked on training a machine-learning model for visual defect detection.
 <div align="center">
 
 **Building useful software, one iteration at a time.**
-
-*Open to opportunities and collaboration.*
 
 </div>
